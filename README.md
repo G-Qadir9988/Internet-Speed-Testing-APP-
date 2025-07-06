@@ -65,18 +65,11 @@ cd ../frontend
 npm install
 npm start
 
-👨‍💻 Team Members
-Name	Location	Contact
-Noor Malik	Islamabad, Pakistan	📧 noormalik56500@gmail.com
-🔗 LinkedIn
-Ghulam Qadir	Rawalpindi, Pakistan	🔗 LinkedIn
 
-# 📜 License
-This project is open-source and available for educational and non-commercial use under the MIT License.
 
-**Ghulam Qadir**  
-- Email: [gqitspecialist@gmail.com](mailto:gqitspecialist@gmail.com)  
-- LinkedIn: [Ghulam Qadir](https://www.linkedin.com/in/ghulam-qadir-07a982365)
+## 👨‍💻 Team Members
 
-**Noor Malik**		📧 noormalik56500@gmail.com
-          🔗 LinkedIn
+| Name           | Location            | Contact                                   |
+|----------------|---------------------|-------------------------------------------|
+| **Noor Malik** | Islamabad, Pakistan | 📧 noormalik56500@gmail.com  <br> 🔗 [LinkedIn](https://www.linkedin.com/in/noormalik56500) |
+| **Ghulam Qadir** | Rawalpindi, Pakistan | 🔗 [LinkedIn](https://www.linkedin.com/in/ghulam-qadir-07a982365) |
