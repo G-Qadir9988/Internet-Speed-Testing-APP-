@@ -48,6 +48,14 @@ The **frontend React application** performs the following:
 
 ---
 
+## 👨‍💻 Team Members
+
+| Name           | Location            | Contact                                   |
+|----------------|---------------------|-------------------------------------------|
+| **Noor Malik** | Islamabad, Pakistan | 📧 noormalik56500@gmail.com  <br> 🔗 [LinkedIn](https://www.linkedin.com/in/noormalik56500) |
+| **Ghulam Qadir** | Rawalpindi, Pakistan | 🔗 [LinkedIn](https://www.linkedin.com/in/ghulam-qadir-07a982365) |
+
+
 ## 📦 Installation & Usage
 
 ```bash
@@ -67,9 +75,3 @@ npm start
 
 
 
-## 👨‍💻 Team Members
-
-| Name           | Location            | Contact                                   |
-|----------------|---------------------|-------------------------------------------|
-| **Noor Malik** | Islamabad, Pakistan | 📧 noormalik56500@gmail.com  <br> 🔗 [LinkedIn](https://www.linkedin.com/in/noormalik56500) |
-| **Ghulam Qadir** | Rawalpindi, Pakistan | 🔗 [LinkedIn](https://www.linkedin.com/in/ghulam-qadir-07a982365) |
